@@ -1,8 +1,8 @@
 # Macroeconomics_III
 
-This is the repository for the "Macroeconomics III" course (Master in Economics, **Sciences Po**)
+This is the repository for the "Macroeconomics III" course (Master in Economics, **$\color{red}{\text{Sciences Po}}$**).
 
-**Content:** lecture notes, problem sets, and codes.
+**$\color{Blue}{\text{Content}}$**: lecture notes, problem sets, and codes.
 
 **1.** Complete Markets.
 
@@ -22,7 +22,7 @@ This is the repository for the "Macroeconomics III" course (Master in Economics,
 
 **9.** Economies with idiosyncratic risks in an Incomplete Markets environmemt.
 
-**10.** Economies with idiosyncratic and aggregate risks in an Incomplete Markets environment.
+**10.** Economies with idiosyncratic and aggregate risk in an Incomplete Markets environment.
 
 
-Created by **Diego de Sousa Rodrigues**, Sciences Po.
+Created by **$\color{Blue}{\text{Diego de Sousa Rodrigues}}$**, **$\color{red}{\text{Sciences Po}}$**.
