@@ -1,0 +1,5 @@
+1. Open the file “krusselsmith.jl” to generate all the results reported in the pdf file;
+2. The file “functions” contains the code to calculate the Transition matrix using the ideas specified in the pdf and it also does the simulation;
+3. The file “KS.jl” solves the household problem using the endogenous grid method and apply the Krusell and Smith algorithm specified in the pdf file;
+4. The file “CRRA_utility” is just a file that specify a general utility function to be used in the other files;
+5. The file “variables.jld2” contains the results saved, since it takes sometime to run the model. In order to see this open the “krusselsmith.jl” , in the command window type “using JLD2, FileIO” and then type “@load "variables.jld2”. Continue to run the code from that part below to generate the graphs and results reported in the pdf file. 
